@@ -1,6 +1,6 @@
-// script.js
 const toggleThemeButton = document.getElementById('toggleTheme');
 const body = document.body;
+const footer = document.querySelector('footer');
 
 const isDarkMode = () => body.classList.contains('dark-mode');
 
@@ -21,13 +21,14 @@ window.addEventListener('load', loadTheme);
 
 window.onscroll = function() {
   var button = document.getElementById('toggleTheme');
-  var footer = document.getElementById('footer');
+  var footer = document.querySelector('footer');
 
-  var footerStart = window.innerHeight - footer.getBoundingClientRect().top;
+  var footerStart = footer.getBoundingClientRect().top + window.scrollY - window.innerHeight;
 
-  if (footerStart > 0) {
-    button.style.bottom = (footerStart + 10) + 'px';
+  if (window.pageYOffset > footerStart) {
+    button.style.bottom = (window.pageYOffset - footerStart + 10) + 'px';
   } else {
     button.style.bottom = '10px';
   }
 };
+
