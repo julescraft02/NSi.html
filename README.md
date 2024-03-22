@@ -11,8 +11,7 @@ Ce site web vise à fournir une exploration interactive et informative de l'évo
 - Présentation chronologique des principaux moments de l'histoire de l'informatique.
 - Informations détaillées sur les pionniers, les inventions et les progrès technologiques majeurs.
 - Interface utilisateur conviviale et intuitive pour une navigation aisée.
-- Intégration de médias (images, vidéos) pour illustrer les concepts clés.
-- Mise en valeur de l'impact de l'informatique sur la société moderne.
+- Mise en valeur de l'impact de l'informatique sur la société moderne et son avenir.
 
 ## Accès au Site
 
@@ -23,18 +22,10 @@ Pour visualiser le site, vous pouvez vous rendre à l'adresse suivante : [Histoi
 - HTML5
 - CSS3
 - JavaScript (partiellement, pour des fonctionnalités spécifiques)
-- [Bootstrap](https://getbootstrap.com/) - Framework CSS pour le design responsive
-- Autres bibliothèques et outils...
 
 ## Auteur
 
-Ce projet a été réalisé par [Votre Nom]
-
-## Licence
-
-[Indiquez la licence sous laquelle vous publiez votre projet, par exemple : MIT Licence, GNU General Public License, etc.]
-
----
+Ce projet a été réalisé par CARAMELLE Jules
 
 N'hésitez pas à contribuer à ce projet en soumettant des suggestions, des corrections ou des améliorations via des pull requests. Toute aide est la bienvenue !
 
