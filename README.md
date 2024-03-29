@@ -15,7 +15,7 @@ Ce site web vise à fournir une exploration interactive et informative de l'évo
 
 ## Accès au Site
 
-Pour visualiser le site, vous pouvez vous rendre à l'adresse suivante : [Histoire de l'Informatique](https://julescraft02.fr/histoire/)
+Pour visualiser le site, vous pouvez vous rendre à l'adresse suivante : [Histoire de l'Informatique](https://julescraft02.github.io/NSi.html/)
 
 ## Technologies Utilisées
 
